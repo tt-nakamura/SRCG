@@ -1,1 +1,1 @@
-# SRCG
+Special Relativistic Computer Graphics
